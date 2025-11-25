@@ -1,4 +1,6 @@
-a = 7
+
+num = 8
+
 if a % 2 = =0:
 print(a,"odd num");
 else:
