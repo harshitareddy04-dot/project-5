@@ -1,4 +1,4 @@
-num =input("enter a number")
+num =int(input("enter a number"))
 num = 8
 
 if a % 2 = =0:
