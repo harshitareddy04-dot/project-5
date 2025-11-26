@@ -2,9 +2,9 @@ num = int(input("enter a number"))
 
 
 if a % 2 = =0:
-print(a,"odd num");
+print("it is a odd num");
 else:
-print(a,"even num");
+print("it is a even num");
 
 
 
